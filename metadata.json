@@ -1,0 +1,9 @@
+
+{
+  "name": "DevAgent",
+  "description": "A lightweight AI agent designed to plan, code, and validate software projects from end-to-end within a virtualized sandbox environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
